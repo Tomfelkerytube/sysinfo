@@ -1,0 +1,15 @@
+Package: sysinfo
+Version: 1.1
+Architecture: all
+Maintainer: sop
+Depends: neofetch
+Filename: ./pool/sysinfo-v1.1.deb
+Size: 1248
+MD5sum: 08476fa1706744c06410c7c7441f35cb
+SHA1: 093c292b4af31b30ba71759baf1cd6ba3c5b25fe
+SHA256: 29b1d4bfaa173b6fb83ce73be71b824f0c771ee56ab8b31519ad8c2e3b871146
+Section: utils
+Priority: optional
+Description: Custom system info wrapper around neofetch
+ A CLI tool that wraps neofetch with custom commands and flags.
+
